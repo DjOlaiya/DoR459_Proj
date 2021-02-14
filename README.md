@@ -7,3 +7,5 @@ Current Task:
 TO DO:
 - data preprocessing
 - exploratory analysis
+
+PS: write code for Milestone 1 to be milestone1 branch
