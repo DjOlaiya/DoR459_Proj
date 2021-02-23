@@ -6,3 +6,6 @@ output/
 notebook*
 r5sjoin*
 shapefiles/
+us/
+bufferhistory
+history.py
