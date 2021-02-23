@@ -15,7 +15,8 @@ PS: write code for Milestone 1 to be milestone1 branch
 - if lat and long are missing pick centre location of the state.
 - threshhold for rejection is 50.
 - truncate lat and long to 3 decimals
-
+- group countries by continent and plot bar graph.
+-
 ## missing data:
 - age- ask on discussion board
 - sex- probably drop all missing values
