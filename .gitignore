@@ -1,1 +1,8 @@
 dataset/
+venv/
+mapfiles/
+input/
+output/
+notebook*
+r5sjoin*
+shapefiles/
